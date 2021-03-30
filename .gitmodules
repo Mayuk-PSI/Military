@@ -1,0 +1,3 @@
+[submodule "Infantry"]
+	path = Infantry
+	url = git@github.com:Mayuk-PSI/Infantry.git
